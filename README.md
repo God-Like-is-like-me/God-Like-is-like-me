@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## God-Like 👋
-<center>
-<div>
-	<img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=tokyonight/>
-	<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&layout=compact&theme=tokyonight/>
+
+
+	
+<img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=tokyonight/>
+<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&layout=compact&theme=tokyonight/>
 	
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&layout=compact&theme=tokyonight)]()	
@@ -27,10 +28,8 @@ Here are some ideas to get you started:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=tokyonight)]()
 
 	
-</div>
-</center>
 
-<center>
+
 <div style="display: flex"><br>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
@@ -43,7 +42,7 @@ Here are some ideas to get you started:
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /> 
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>  
 </div>
-</center>
+
 
 <br>
 
