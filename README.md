@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## God-Like 👋
 <center>
 <div>
-	<img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=radical/>
-	<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&layout=compact&theme=radical/>
+	<img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=tokyonight/>
+	<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&layout=compact&theme=tokyonight/>
 	
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&theme=tokyonight&showicons=true)]()
 	
