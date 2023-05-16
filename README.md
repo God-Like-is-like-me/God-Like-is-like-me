@@ -74,7 +74,6 @@ Here are some ideas to get you started:
 </div>	
 <sub><sub>All product names, logos, and brandsare property of their respective owners.</sub></sub>
 <sub><sub>All company, product and service names used in this website are for identification purposes only.</sub></sub>
-<p style="text-align: center;"> and </p>
 
 <!---https://devicon.dev/--->
 <br>
