@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 <h3>Graphics</h3>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
+	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 </div>
 <!---https://devicon.dev/--->
 <br>
