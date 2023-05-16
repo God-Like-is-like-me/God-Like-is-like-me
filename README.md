@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 <h3>OS</h3>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+	<img width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <h3>Graphics</h3>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
