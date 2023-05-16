@@ -72,7 +72,11 @@ Here are some ideas to get you started:
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+	<p>All product names, logos, and brandsare property of their respective owners. All company, product and service names used in this website are for identification purposes only.</p>
 </div>
+
+
+
 <!---https://devicon.dev/--->
 <br>
 
