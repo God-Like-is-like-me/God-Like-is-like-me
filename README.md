@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## God-Like 👋
+## God-Like
 
 <p align="center">
 <div>	
