@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## God-Like
+### God-Like
 
-<p align="center">
 <div>	
 <img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=radical/>
 <img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&layout=compact&theme=radical/>
 </div>
-</p>
+
 
 
 <!--
@@ -31,10 +30,9 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&how_icons=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=tokyonight)]()
 -->
-	
 
-
-<div style="display: flex"><br>
+<div style="display: flex">
+<hr>
 <h3>Languages</h3>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -72,10 +70,11 @@ Here are some ideas to get you started:
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-	<p>All product names, logos, and brandsare property of their respective owners. All company, product and service names used in this website are for identification purposes only.</p>
-</div>
-
-
+	<hr>
+</div>	
+<sub><sub>All product names, logos, and brandsare property of their respective owners.</sub></sub>
+<sub><sub>All company, product and service names used in this website are for identification purposes only.</sub></sub>
+<p style="text-align: center;"> and </p>
 
 <!---https://devicon.dev/--->
 <br>
