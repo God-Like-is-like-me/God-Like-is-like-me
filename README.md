@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Banner](https://github.com/God-Like-is-like-me/God-Like-is-like-me/blob/main/image.jpg?raw=true)
+
 ### God-Like
+
+
 
 <div>	
 <img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=radical/>
