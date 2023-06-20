@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
 	<hr>
 </div>	
-<sub><sub>All product names, logos, and brandsare property of their respective owners.</sub></sub>
+<sub><sub>All product names, logos, and brands are property of their respective owners.</sub></sub>
 <sub><sub>All company, product and service names used in this website are for identification purposes only.</sub></sub>
 
 <!---https://devicon.dev/--->
