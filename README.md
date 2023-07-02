@@ -1,16 +1,7 @@
 <!--
 **God-Like-is-like-me/God-Like-is-like-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ![Banner](https://github.com/God-Like-is-like-me/God-Like-is-like-me/blob/main/image.jpg?raw=true)
@@ -75,10 +66,21 @@ Here are some ideas to get you started:
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg"/>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
 	<hr>
+
+<h3>Angular</h3>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+
+
+ 
 </div>	
 <sub><sub>All product names, logos, and brands are property of their respective owners.</sub></sub>
 <sub><sub>All company, product and service names used in this website are for identification purposes only.</sub></sub>
 
 <!---https://devicon.dev/--->
+
+
+
+
+
 <br>
 
