@@ -8,11 +8,6 @@
 <img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&layout=compact&theme=tokyonight/>
 </div>
 
-<div>	
-<img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=chartreuse-dark/>
-<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=tokyonight/>
-</div>
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=God-Like-is-like) 
 
 
