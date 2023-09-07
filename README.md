@@ -1,23 +1,17 @@
-<!--
-**God-Like-is-like-me/God-Like-is-like-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
 
 ![Banner](https://github.com/God-Like-is-like-me/God-Like-is-like-me/blob/main/image.jpg?raw=true)
 
 ### God-Like
 
-
+<div>	
+<img height="160em" src=https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=chartreuse-dark&showicons=true/>
+<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&layout=compact&theme=tokyonight/>
+</div>
 
 <div>	
 <img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=chartreuse-dark/>
-<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&layout=compact&theme=radical/>
+<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=tokyonight/>
 </div>
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&theme=highcontrast)
-
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=God-Like-is-like) 
 
