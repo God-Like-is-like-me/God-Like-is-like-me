@@ -15,6 +15,12 @@
 <img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&layout=compact&theme=radical/>
 </div>
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+![Profile View Counter](https://komarev.com/ghpvc/?God-Like-is-like-me=God-Like-is-like-me)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username) 
+
 
 
 <!--
