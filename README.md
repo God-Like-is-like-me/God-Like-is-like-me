@@ -1,16 +1,12 @@
 
 ![Banner](https://github.com/God-Like-is-like-me/God-Like-is-like-me/blob/main/image.jpg?raw=true)
 
-### God-Like
-
 <div>	
-<img height="160em" src=https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=chartreuse-dark&showicons=true/>
-<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&layout=compact&theme=tokyonight/>
+<img height="160em" width="500em" src=https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=merko&showicons=true/>
+<img height="160em" width="500em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
 </div>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=God-Like-is-like) 
-
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=God-Like-is-like)
 
 <!---
 
@@ -62,19 +58,11 @@
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg"/>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
 	<hr>
-
-
-
  
 </div>	
 <sub><sub>All product names, logos, and brands are property of their respective owners.</sub></sub>
 <sub><sub>All company, product and service names used in this website are for identification purposes only.</sub></sub>
 
 <!---https://devicon.dev/--->
-
-<!---![Jokes Card](https://readme-jokes.vercel.app/api)--->
-
-
-
 <br>
 
