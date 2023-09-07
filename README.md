@@ -17,7 +17,7 @@
 
 
 
-
+<!---
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&layout=compact&theme=tokyonight)]()	
@@ -25,7 +25,7 @@
 	
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&how_icons=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=tokyonight)]()
-
+--->
 
 <div style="display: flex">
 <hr>
