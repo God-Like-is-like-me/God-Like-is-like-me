@@ -11,25 +11,27 @@
 
 
 <div>	
-<img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=radical/>
+<img height="160em" src=https://github-readme-stats.vercel.app/api?username=God-Like-is-like-me&show_icons=true&theme=chartreuse-dark/>
 <img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&layout=compact&theme=radical/>
 </div>
 
 
- 
-![Profile View Counter](https://komarev.com/ghpvc/?God-Like-is-like-me=God-Like-is-like-me)
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&theme=highcontrast)
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=God-Like-is-like) 
 
 
 
-<!--
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&layout=compact&theme=tokyonight)]()	
 	
 	
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&how_icons=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=tokyonight)]()
--->
+
 
 <div style="display: flex">
 <hr>
