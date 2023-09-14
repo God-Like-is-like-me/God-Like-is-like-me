@@ -8,6 +8,8 @@
 
 
 ![Profile View Counter]
+
+<!----------------------------------[ Badges ]
 ![Badge Commits]
 ![Badge Issues]
 ![Badge Localization]
@@ -16,6 +18,7 @@
 ![Badge Mozilla]
 ![Badge Chrome]
 ![Badge Edge]
+[ Badges ]--------------------------------->
 
 
 <!---
