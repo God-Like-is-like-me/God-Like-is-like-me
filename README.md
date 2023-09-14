@@ -79,9 +79,13 @@
 
 [Profile View Counter]: https://komarev.com/ghpvc/?username=God-Like-is-like
 
-[Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
 
+
+[Badge Commits]: https://img.shields.io/sourceforge/commit-count/God-Like-is-like-me/AngularCAL
 [Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
+
+
+
 [Badge Mozilla]: https://img.shields.io/amo/rating/ublock-origin?label=Firefox
 
 [Badge License]: https://img.shields.io/github/license/God-Like-is-like-me/AngularCAL
