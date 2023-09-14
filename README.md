@@ -6,16 +6,15 @@
 <img height="200em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
 </div>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=God-Like-is-like)
-
+![Profile View Counter]
 ![Badge Commits]
 ![Badge Issues]
 ![Badge Localization]
 ![Badge License]
 ![Badge NPM]
-[![Badge Mozilla]][Mozilla]
-[![Badge Chrome]][Chrome]
-[![Badge Edge]][Edge]
+![Badge Mozilla]
+![Badge Chrome]
+![Badge Edge]
 
 
 
@@ -84,6 +83,8 @@ foodmine-course
 <br>
 
 <!----------------------------------[ Badges ]--------------------------------->
+
+[Profile View Counter]: https://komarev.com/ghpvc/?username=God-Like-is-like
 [Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
 [Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
 [Badge Mozilla]: https://img.shields.io/amo/rating/ublock-origin?label=Firefox
