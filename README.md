@@ -77,7 +77,9 @@
 <!----------------------------------[ Badges ]--------------------------------->
 
 [Profile View Counter]: https://komarev.com/ghpvc/?username=God-Like-is-like
+
 [Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
+
 [Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
 [Badge Mozilla]: https://img.shields.io/amo/rating/ublock-origin?label=Firefox
 [Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
@@ -87,3 +89,17 @@
 [Badge NPM]: https://img.shields.io/npm/v/@gorhill/ubo-core
 <!----------------------------------[ Badges ]--------------------------------->
 
+
+
+<!----------------------------------[ Badges ]
+
+[Profile View Counter]: https://komarev.com/ghpvc/?username=God-Like-is-like
+[Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
+[Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
+[Badge Mozilla]: https://img.shields.io/amo/rating/ublock-origin?label=Firefox
+[Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
+[Badge Chrome]: https://img.shields.io/chrome-web-store/rating/cjpalhdlnbpafiamejdnhcphjbkeiagm?label=Chrome
+[Badge Edge]: https://img.shields.io/badge/dynamic/json?label=Edge&color=brightgreen&query=%24.averageRating&suffix=%2F%35&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fodfafepnkmbhccpbejgmiehpchacaeak
+[Badge Issues]: https://img.shields.io/github/issues/uBlockOrigin/uBlock-issues
+[Badge NPM]: https://img.shields.io/npm/v/@gorhill/ubo-core
+[ Badges ]--------------------------------->
