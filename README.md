@@ -6,6 +6,9 @@
 <img height="200em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
 </div>
 
+![GitHub manifest version (path)](https://img.shields.io/github/manifest-json/v/%20God-Like%20/foodmine-course)
+
+
 ![Profile View Counter]
 ![Badge Commits]
 ![Badge Issues]
