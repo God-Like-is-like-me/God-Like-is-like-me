@@ -17,15 +17,7 @@
 ![Badge Edge]
 
 
-
-
-
-
-![GitHub manifest version (path)](https://img.shields.io/github/manifest-json/v/:God-Like-is-like/:foodmine-course)
-
-foodmine-course
 <!---
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&layout=compact&theme=tokyonight)]()	
 	
