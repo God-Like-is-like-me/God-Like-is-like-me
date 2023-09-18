@@ -2,8 +2,8 @@
 ![Banner](https://github.com/God-Like-is-like-me/God-Like-is-like-me/blob/main/image.jpg?raw=true)
 
 <div>	
-<img height="210em"  src=https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=merko&showicons=true/>
-<img height="210em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
+<img height="230em"  src=https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=merko&showicons=true/>
+<img height="230em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
 </div>
 
 
