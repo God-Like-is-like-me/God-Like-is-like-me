@@ -1,4 +1,9 @@
 
+
+
+52262 94123 90311 73140 15469 93421
+
+
 ![Banner](https://github.com/God-Like-is-like-me/God-Like-is-like-me/blob/main/image.jpg?raw=true)
 
 <div>	
