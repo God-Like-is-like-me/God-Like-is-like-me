@@ -2,8 +2,12 @@
 
 <div>	
 <img height="223em"  src=https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=merko&showicons=true/>
+</div>
+<!----------------------------------[ Stats ] 
 <img height="223em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
 </div>
+[ Stats ]--------------------------------->
+
 
 <!----------------------------------[ Counter ]
 ![Profile View Counter]
