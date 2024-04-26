@@ -7,8 +7,7 @@
 <img height="223em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
 </div>
 [ Stats ]--------------------------------->
-<img height="223em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
-</div>
+
 
 
 <!----------------------------------[ Counter ]
