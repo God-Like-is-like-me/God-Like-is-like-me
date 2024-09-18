@@ -12,7 +12,11 @@
 
 <!----------------------------------[ Badges ]--------------------------------->
 ![Profile View Counter]
+![Badge Commits]
+
+
 ![Badge License]
+![GitHub contributors]
 
 <!----------------------------------[ Badges ]--------------------------------->
 
@@ -85,11 +89,14 @@
 
 [Profile View Counter]: https://komarev.com/ghpvc/?username=God-Like-is-like
 
-[Badge Commits]: https://img.shields.io/github/commit-activity/m/God-Like-is-like/foodmine-course?label=Commits
+[Badge Commits]: https://img.shields.io/github/commit-activity/t/God-Like-is-like-me/foodmine
 
-<!----------------------------------[ Badges ]--------------------------------->
+
+[GitHub contributors]: https://img.shields.io/github/contributors/God-Like-is-like-me/foodmine-course
 
 [Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
+
+
 
 <!----------------------------------[ Badges ]--------------------------------->
 
