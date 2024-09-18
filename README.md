@@ -1,14 +1,36 @@
 ![Banner](https://github.com/God-Like-is-like-me/God-Like-is-like-me/blob/main/image.jpg?raw=true)
 
+
+<!------
 <div>	
 <img height="223em"  src=https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=merko&showicons=true/>
 </div>
+------>
 
-<!----------------------------------[ Stats ] 
-<img height="223em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
+
+
+<div style="text-align: center;">
+    <div style="display: inline-block; height: 100%;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=God-Like-is-like-me &theme=tokyo-night	&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=God-Like-is-like-me &theme=github-light&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" />
+            <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=God-Like-is-like-me &theme=tokyo-night&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="God-Like-is-like-me's stats" style="width:97%;"/>
+        </picture>
+    </div>
 </div>
-[ Stats ] --------------------------------->
 
+<br>
+<div align="center">
+    <a href="https://github.com/God-Like-is-like-me?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=God-Like-is-like-me&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" /></a>
+    <a href="https://github.com/RoriFloris?tab=repositories"><img alt="God-Like-is-like-me's Github stats"  src="https://github-readme-stats-one-bice.vercel.app/api?username=God-Like-is-like-me&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%"/></a>
+</div>
+<br>
+<div align="center">
+    <div style="display: inline-block; height: 100%;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=God-Like-is-like-me &no-bg=false&no-border=true&no-frame=true&column=6&row=1&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=God-Like-is-like-me &no-bg=true&no-border=false&no-frame=true&column=6&row=1&theme=flat" />
+</div>
 
 <!----------------------------------[ Badges ]--------------------------------->
 ![Profile View Counter]
@@ -24,7 +46,6 @@
 <!----------------------------------[ Stats ] 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&layout=compact&theme=tokyonight)]()	
-
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&how_icons=true&theme=tokyonight&showicons=true)]()
