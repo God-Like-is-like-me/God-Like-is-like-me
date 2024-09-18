@@ -3,20 +3,20 @@
 <div>	
 <img height="223em"  src=https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=merko&showicons=true/>
 </div>
-<!----------------------------------[ Stats ] 
+<!----------------------------------[ Stats ] --------------------------------->
 <img height="223em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=God-Like-is-like-me&langs_count=5&theme=merko&showicons=true/>
 </div>
-[ Stats ]--------------------------------->
+<!----------------------------------[ Stats ] --------------------------------->
 
 
 
-<!----------------------------------[ Counter ]
+
+
+
+
+
+<!----------------------------------[ Badges ]--------------------------------->
 ![Profile View Counter]
-
-[ Counter ]--------------------------------->
-
-
-<!----------------------------------[ Badges ]
 ![Badge Commits]
 ![Badge Issues]
 ![Badge Localization]
@@ -25,7 +25,7 @@
 ![Badge Mozilla]
 ![Badge Chrome]
 ![Badge Edge]
-[ Badges ]--------------------------------->
+<!----------------------------------[ Badges ]--------------------------------->
 
 
 <!---
@@ -95,7 +95,7 @@
 
 [Profile View Counter]: https://komarev.com/ghpvc/?username=God-Like-is-like
 
-<!----------------------------------[ Badges ]
+<!----------------------------------[ Badges ]--------------------------------->
 [Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
 [Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
 [Badge Mozilla]: https://img.shields.io/amo/rating/ublock-origin?label=Firefox
@@ -104,4 +104,4 @@
 [Badge Edge]: https://img.shields.io/badge/dynamic/json?label=Edge&color=brightgreen&query=%24.averageRating&suffix=%2F%35&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fodfafepnkmbhccpbejgmiehpchacaeak
 [Badge Issues]: https://img.shields.io/github/issues/uBlockOrigin/uBlock-issues
 [Badge NPM]: https://img.shields.io/npm/v/@gorhill/ubo-core
-[ Badges ]--------------------------------->
+<!----------------------------------[ Badges ]--------------------------------->
