@@ -75,11 +75,11 @@
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/> 
+	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> 
 
 <h3>Source-Code Editor</h3>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudiooriginal.svg"/>
 	<!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"/>-->
  
 <h3>OS</h3>
@@ -94,13 +94,13 @@
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
  	<hr>
  
-</div>	
+</div>
+
 <sub><sub>All product names, logos, and brands are property of their respective owners.</sub></sub>
 <sub><sub>All company, product and service names used in this website are for identification purposes only.</sub></sub>
 
 <!---https://devicon.dev/--->
 <br>
-
 
 <!----------------------------------[ Badges ]--------------------------------->
 
@@ -109,14 +109,10 @@
 <!----------------------------------[ Private Repo Will not show ]
 [Badge Commits]: https://img.shields.io/github/commit-activity/t/God-Like-is-like-me/endurance
 [GitHub contributors]: https://img.shields.io/github/contributors/God-Like-is-like-me/endurance
+[Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [ Private Repo Will not show ]--------------------------------->
 
-[Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
-
-<!----------------------------------[ Badges ]--------------------------------->
-
 <!----------------------------------[ Badges ]
-![Profile View Counter]
 ![Badge Commits]
 ![Badge Issues]
 ![Badge Localization]
@@ -125,17 +121,22 @@
 ![Badge Mozilla]
 ![Badge Chrome]
 ![Badge Edge]
-[ Badges ]--------------------------------->
+<!----------------------------------[ Badges ]--------------------------------->
 
+<br>
 
-
-<!----------------------------------[ Badges Examples]
+<!----------------------------------[ Badges Examples]--------------------------------->
 [Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
 [Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
+
+<!----------------------------------[ Badges Examples]
+[Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
+[ Badges Examples]--------------------------------->
+
 [Badge Mozilla]: https://img.shields.io/amo/rating/ublock-origin?label=Firefox
 [Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [Badge Chrome]: https://img.shields.io/chrome-web-store/rating/cjpalhdlnbpafiamejdnhcphjbkeiagm?label=Chrome
 [Badge Edge]: https://img.shields.io/badge/dynamic/json?label=Edge&color=brightgreen&query=%24.averageRating&suffix=%2F%35&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fodfafepnkmbhccpbejgmiehpchacaeak
 [Badge Issues]: https://img.shields.io/github/issues/uBlockOrigin/uBlock-issues
 [Badge NPM]: https://img.shields.io/npm/v/@gorhill/ubo-core
-[ Badges Examples ]--------------------------------->
+<!----------------------------------[ Badges Examples ]--------------------------------->
