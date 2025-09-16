@@ -31,6 +31,7 @@
 
 <!----------------------------------[ Badges ]--------------------------------->
 ![Profile View Counter]
+![Badge Commits Food]
 ![Badge Commits]
 
 
@@ -105,7 +106,7 @@
 <!----------------------------------[ Badges ]--------------------------------->
 
 [Profile View Counter]: https://komarev.com/ghpvc/?username=God-Like-is-like
-
+<br>
 <!----------------------------------[ Private Repo Will not show ]
 [Badge Commits]: https://img.shields.io/github/commit-activity/t/God-Like-is-like-me/endurance
 [GitHub contributors]: https://img.shields.io/github/contributors/God-Like-is-like-me/endurance
@@ -123,13 +124,11 @@
 ![Badge Edge]
 <!----------------------------------[ Badges ]--------------------------------->
 
-<br>
 
-<!----------------------------------[ Badges Examples]--------------------------------->
 [Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
-
+[Badge Commits Food]: https://img.shields.io/github/commit-activity/m/God-Like-is-like-me/foodmine-course
 [Badge Commits]: https://img.shields.io/github/commit-activity/m/God-Like-is-like-me/foodmine-course
-
+<!----------------------------------[ Badges ]--------------------------------->
 
 <!----------------------------------[ Badges Examples]
 [Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
