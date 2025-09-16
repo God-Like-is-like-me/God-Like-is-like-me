@@ -127,7 +127,7 @@
 
 [Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
 [Badge Commits Food]: https://img.shields.io/github/commit-activity/m/God-Like-is-like-me/foodmine-course
-[Badge Commits]: https://img.shields.io/github/commit-activity/m/God-Like-is-like-me/foodmine-course
+[Badge Commits]: https://img.shields.io/github/commit-activity/m/God-Like-is-like-me/endurance
 <!----------------------------------[ Badges ]--------------------------------->
 
 <!----------------------------------[ Badges Examples]
