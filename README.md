@@ -106,13 +106,12 @@
 
 [Profile View Counter]: https://komarev.com/ghpvc/?username=God-Like-is-like
 
+<!----------------------------------[ Private Repo Will not show ]
 [Badge Commits]: https://img.shields.io/github/commit-activity/t/God-Like-is-like-me/endurance
-
-
 [GitHub contributors]: https://img.shields.io/github/contributors/God-Like-is-like-me/endurance
+[ Private Repo Will not show ]--------------------------------->
+
 [Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
-
-
 
 <!----------------------------------[ Badges ]--------------------------------->
 
