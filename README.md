@@ -1,6 +1,5 @@
 ![Banner](https://github.com/God-Like-is-like-me/God-Like-is-like-me/blob/main/image.jpg?raw=true)
 
-
 <!------
 <div>	
 <img height="223em"  src=https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=merko&showicons=true/>
@@ -34,13 +33,11 @@
 ![Profile View Counter]
 ![Badge Commits]
 
-
 <!----------------------------------[ Badges ]
 ![Badge License]
 ![GitHub contributors]
 
 [ Badges ]--------------------------------->
-
 
 <!----------------------------------[ Stats ] 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=God-Like-is-like-me&count_private=true&layout=compact&theme=tokyonight&showicons=true)]()
@@ -109,11 +106,10 @@
 
 [Profile View Counter]: https://komarev.com/ghpvc/?username=God-Like-is-like
 
-[Badge Commits]: https://img.shields.io/github/commit-activity/t/God-Like-is-like-me/foodmine
+[Badge Commits]: https://img.shields.io/github/commit-activity/t/God-Like-is-like-me/endurance
 
 
-[GitHub contributors]: https://img.shields.io/github/contributors/God-Like-is-like-me/foodmine-course
-
+[GitHub contributors]: https://img.shields.io/github/contributors/God-Like-is-like-me/endurance
 [Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
 
 
