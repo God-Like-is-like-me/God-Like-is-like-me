@@ -33,6 +33,7 @@
 ![Profile View Counter]
 ![Badge Commits]
 
+
 <!----------------------------------[ Badges ]
 ![Badge License]
 ![GitHub contributors]
@@ -93,7 +94,6 @@
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg"/>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
  	<hr>
- 
 </div>
 
 <sub><sub>All product names, logos, and brands are property of their respective owners.</sub></sub>
@@ -127,13 +127,16 @@
 
 <!----------------------------------[ Badges Examples]--------------------------------->
 [Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
-[Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
+
+[Badge Commits]: https://img.shields.io/github/commit-activity/m/God-Like-is-like-me/foodmine-course
+
 
 <!----------------------------------[ Badges Examples]
 [Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
 [ Badges Examples]--------------------------------->
 
 [Badge Mozilla]: https://img.shields.io/amo/rating/ublock-origin?label=Firefox
+[Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
 [Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [Badge Chrome]: https://img.shields.io/chrome-web-store/rating/cjpalhdlnbpafiamejdnhcphjbkeiagm?label=Chrome
 [Badge Edge]: https://img.shields.io/badge/dynamic/json?label=Edge&color=brightgreen&query=%24.averageRating&suffix=%2F%35&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fodfafepnkmbhccpbejgmiehpchacaeak
