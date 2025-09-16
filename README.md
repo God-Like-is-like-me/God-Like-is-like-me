@@ -17,9 +17,6 @@
     </div>
 </div>
 
-
-
-
 <br>
 <div align="center">
     <a href="https://github.com/God-Like-is-like-me?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=God-Like-is-like-me&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" /></a>
